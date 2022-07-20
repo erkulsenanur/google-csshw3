@@ -1,5 +1,5 @@
 
-![Google](google.PNG)
+![Google](google.png)
 
 Bu repo İçerisinde bir adet README dosyası, bir adet index.html dosyası, google_homepage klasörü barındırıyor. google_homepage klasörü içerisinde assets klasörü ve css klasörü yer alıyor.
 
